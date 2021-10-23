@@ -1,0 +1,48 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="spring-mvc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_mvc_jar</output-path>
+    <root id="archive" name="spring-mvc.jar">
+      <element id="module-output" name="spring-mvc" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-dbcp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/el-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/catalina-tribes.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/attoparser/attoparser/2.0.4.RELEASE/attoparser-2.0.4.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/5.2.0.RELEASE/spring-expression-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/jasper-el.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/webapps/examples/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-jni.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.2.0.RELEASE/spring-aop-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/jasper.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.0.RELEASE/spring-context-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/catalina.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.0.RELEASE/spring-core-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/catalina-storeconfig.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.0.RELEASE/spring-beans-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/servlet-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-coyote.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-jcl/5.2.0.RELEASE/spring-jcl-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-websocket.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/annotations-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/catalina-ant.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/ecj-4.6.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/jaspic-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf-spring5/3.0.9.RELEASE/thymeleaf-spring5-3.0.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/unbescape/unbescape/1.1.5.RELEASE/unbescape-1.1.5.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/jsp-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-jdbc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.25/slf4j-api-1.7.25.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-web/5.2.0.RELEASE/spring-web-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/webapps/examples/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-util.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/thymeleaf/thymeleaf/3.0.9.RELEASE/thymeleaf-3.0.9.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.0.RELEASE/spring-webmvc-5.2.0.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/websocket-api.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/catalina-ha.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-util-scan.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/apache-tomcat-8.5.72/lib/tomcat-api.jar" path-in-jar="/" />
+      <element id="artifact" artifact-name="spring-mvc:war exploded" />
+      <element id="artifact" artifact-name="spring-mvc:war" />
+    </root>
+  </artifact>
+</component>
