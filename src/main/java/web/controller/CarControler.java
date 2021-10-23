@@ -13,20 +13,6 @@ import java.util.List;
 @Controller
 public class CarControler {
 
-//    @Value("${welcome.message}")
-//    private String message;
-//
-//    @Value("${error.message}")
-//    private String errorMessage;
-
-//    @RequestMapping(value = { "/", "/index" }, method = RequestMethod.GET)
-//    public String index(Model model) {
-//
-//        model.addAttribute("message", message);
-//
-//        return "index";
-//    }
-
     @GetMapping(value = "/car")
     public String car(@RequestParam(value = "count", defaultValue = "5") int allCars, Model model) {
         List<Car> list = new ArrayList<>();
