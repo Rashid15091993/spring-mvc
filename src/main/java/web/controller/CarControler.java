@@ -27,7 +27,7 @@ public class CarControler {
 //        return "index";
 //    }
 
-    @RequestMapping(value = "/car")
+    @GetMapping(value = "/car")
     public String car(@RequestParam(value = "count", defaultValue = "5") int allCars, Model model) {
         List<Car> list = new ArrayList<>();
         list.add(new Car("Ford", "RED", 1000));
