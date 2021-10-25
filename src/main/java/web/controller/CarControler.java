@@ -8,7 +8,7 @@ import serves.CarServiceImpl;
 
 @Controller
 public class CarControler {
-    CarServiceImpl carService;
+    CarService carService = new CarServiceImpl();
     @GetMapping(value = "/car")
     public String car(@RequestParam(value = "count", defaultValue = "5") int allCars, Model model) {
 

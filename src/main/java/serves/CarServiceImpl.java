@@ -6,8 +6,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class CarServiceImpl {
-    public static List<Car> carsCount(int number) {
+public class CarServiceImpl implements CarService{
+    @Override
+    public List<Car> carsCount(int number) {
 
         List<Car> list = new ArrayList<>();
         list.add(new Car("Ford", "RED", 1000));
